@@ -1,10 +1,12 @@
-npm install formik --save
- && npm install @mui/material @mui/styled-engine-sc styled-components
- && npm install @mui/icons-material
- && npm install @fontsource/roboto
- && npm install @mui/x-data-grid
- && npm install react-router-dom localforage match-sorter sort-by
- && npm add -D sass
- && npm install axios-hooks
- && npm init @eslint/config
- && npm install @emotion/react @emotion/styled
+	npm install formik --save
+	&&	npm install @mui/material @mui/styled-engine-sc styled-components
+	&&	npm install @mui/icons-material
+	&&	npm install @fontsource/roboto
+	&&	npm install @mui/x-data-grid
+	&&	npm install react-router-dom localforage match-sorter sort-by
+	&&	npm add -D sass
+	&&	npm install axios-hooks
+	&&	npm init @eslint/config
+	&&	npm install @emotion/react @emotion/styled
+	&&	npm install react-input-mask
+	&&	npm install @types/react-input-mask
